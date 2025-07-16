@@ -57,7 +57,7 @@ I’m a curious and driven Computer Science undergrad passionate about building 
 
 **Languages:** Java, Python, HTML, CSS, JavaScript, SQL  
 **Tools & Frameworks:** Flask, Git, Jinja2, TinkerCAD, yFinance  
-**Core Areas:** Backend Dev • Data Structures • Algorithms • AI APIs • Web Dev • Prompt Engineering  
+**Core Areas:** Full Stack Dev • Data Structures • Algorithms • AI • APIs • Prompt Engineering  
 
 ---
 
