@@ -78,7 +78,6 @@ I’m a curious and driven Computer Science undergrad passionate about building 
 
 📧 Email: ojaspatil332@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/ojaspatil26)  
-🧑‍💻 GitHub: [Ojas-Patil26](https://github.com/Ojas-Patil26)
 
 ---
 
