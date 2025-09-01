@@ -13,22 +13,6 @@ I’m a curious and driven Computer Science undergrad passionate about building 
 
 ---
 
-## 💼 Experience
-
-### 🌐 Deloitte Australia – Technology Virtual Internship (Forage)  
-📍 *June 2025*  
-- Completed a simulated tech consulting project  
-- Proposed a client dashboard system and outlined implementation strategies  
-- Gained insight into client interaction, problem scoping, and solution pitching
-
-### 🌐 City of Moreton Bay – Web Development Virtual Internship (Forage)  
-📍 *June 2025*  
-- Created wireframes, user flow diagrams, and a site map for a fictional government website  
-- Built a responsive landing page using HTML and CSS  
-- Focused on accessibility, usability, and front-end functionality
-
----
-
 ## 🛠️ Projects
 
 ### 📈 Portfolio Checker Website  
