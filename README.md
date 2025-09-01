@@ -30,7 +30,7 @@ I’m a curious and driven Computer Science undergrad passionate about building 
 - Built a predictive model using real estate data  
 - Cleaned and visualized data in a 24-hour hackathon setting
 
-### 🗣️ Pi – Voice Assistant Chatbot  
+### 🗣️ Voice Assistant Chatbot  
 *Python, pyttsx3, Spotify & Weather API*  
 - Created a voice-controlled assistant with smart media and weather features  
 - Achieved 90%+ accuracy with natural voice commands  
